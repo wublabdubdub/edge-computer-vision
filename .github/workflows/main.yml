@@ -18,4 +18,4 @@ jobs:
         make install
     - name: Lint with pylint
       run: |
-        make lint
+        make link
